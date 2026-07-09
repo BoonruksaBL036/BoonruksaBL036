@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="YOUR_ANIMATED_HEADER.gif" width="100%"/>
+<img src="./assets/header.svg" width="100%">
 </p>
-
 <h1 align="center">👋 Hi, I'm Boonruksa</h1>
 
 <p align="center">
