@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:70A5FD,75:BF91F3,100:38BDAE&height=220&section=header&text=QA%20Engineer&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+  <img src="YOUR_ANIMATED_HEADER.gif" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Boonruksa</h1>
