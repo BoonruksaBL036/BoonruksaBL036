@@ -17,7 +17,7 @@ Passionate about Software Quality Assurance, API Testing and Test Automation.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoonruksaBL036&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
