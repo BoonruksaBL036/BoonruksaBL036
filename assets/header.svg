@@ -1,0 +1,31 @@
+<svg width="1200" height="250" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="gradient">
+    <stop offset="0%" stop-color="#1A1B27">
+      <animate attributeName="stop-color"
+        values="#1A1B27;#70A5FD;#BF91F3;#38BDAE;#1A1B27"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </stop>
+
+    <stop offset="100%" stop-color="#70A5FD">
+      <animate attributeName="stop-color"
+        values="#70A5FD;#BF91F3;#38BDAE;#1A1B27;#70A5FD"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+</defs>
+
+<rect width="1200" height="250" fill="url(#gradient)"/>
+
+<text x="600" y="140"
+text-anchor="middle"
+font-size="60"
+fill="white"
+font-family="Fira Code">
+QA Engineer
+</text>
+
+</svg>
