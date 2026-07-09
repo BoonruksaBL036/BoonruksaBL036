@@ -33,7 +33,7 @@
 ## 🛠 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,mysql,postman,jam" />
 </p>
 
 ---
