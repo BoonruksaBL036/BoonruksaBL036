@@ -1,31 +1,84 @@
-<svg width="1200" height="250" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
-  <linearGradient id="gradient">
-    <stop offset="0%" stop-color="#1A1B27">
-      <animate attributeName="stop-color"
-        values="#1A1B27;#70A5FD;#BF91F3;#38BDAE;#1A1B27"
-        dur="8s"
-        repeatCount="indefinite"/>
-    </stop>
 
-    <stop offset="100%" stop-color="#70A5FD">
-      <animate attributeName="stop-color"
-        values="#70A5FD;#BF91F3;#38BDAE;#1A1B27;#70A5FD"
-        dur="8s"
-        repeatCount="indefinite"/>
-    </stop>
-  </linearGradient>
+<!-- Multi Color Moving Gradient -->
+<linearGradient id="waveGradient">
+  <stop offset="0%" stop-color="#70A5FD">
+    <animate attributeName="stop-color"
+      values="#70A5FD;#BF91F3;#38BDAE;#70A5FD"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </stop>
+
+  <stop offset="35%" stop-color="#BF91F3">
+    <animate attributeName="stop-color"
+      values="#BF91F3;#38BDAE;#70A5FD;#BF91F3"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </stop>
+
+  <stop offset="70%" stop-color="#38BDAE">
+    <animate attributeName="stop-color"
+      values="#38BDAE;#70A5FD;#BF91F3;#38BDAE"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </stop>
+
+  <stop offset="100%" stop-color="#70A5FD">
+    <animate attributeName="stop-color"
+      values="#70A5FD;#BF91F3;#38BDAE;#70A5FD"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+
 </defs>
 
-<rect width="1200" height="250" fill="url(#gradient)"/>
 
-<text x="600" y="140"
+<!-- Background -->
+<rect width="1200" height="300" fill="#1A1B27"/>
+
+
+<!-- Text -->
+<text x="600" y="120"
 text-anchor="middle"
 font-size="60"
-fill="white"
-font-family="Fira Code">
+font-weight="bold"
+font-family="Fira Code"
+fill="white">
 QA Engineer
 </text>
+
+
+<!-- Single Animated Wave -->
+<path fill="url(#waveGradient)">
+
+<animate attributeName="d"
+dur="8s"
+repeatCount="indefinite"
+values="
+
+M0 220
+C200 140 400 290 600 210
+C800 130 1000 290 1200 210
+V300H0Z;
+
+
+M0 200
+C200 280 400 120 600 230
+C800 300 1000 150 1200 240
+V300H0Z;
+
+
+M0 220
+C200 140 400 290 600 210
+C800 130 1000 290 1200 210
+V300H0Z
+
+"/>
+
+</path>
+
 
 </svg>
