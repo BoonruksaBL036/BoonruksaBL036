@@ -56,14 +56,6 @@ Passionate about Software Quality Assurance, Manual Testing, API Testing, and Te
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BoonruksaBL036&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
