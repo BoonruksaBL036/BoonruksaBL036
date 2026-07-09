@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Boonruksa
 
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Software%20Tester-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright-Test%20Automation-45ba63?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
 ## 💼 QA Engineer | Software Tester
 
 I'm interested in Software Quality Assurance, Manual Testing, API Testing, and Test Automation.
@@ -9,7 +15,7 @@ I'm interested in Software Quality Assurance, Manual Testing, API Testing, and T
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -29,14 +35,23 @@ I'm interested in Software Quality Assurance, Manual Testing, API Testing, and T
 ## 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,vscode,posgreSql,postman" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,vscode,postgres,postman" />
 </p>
 
 **Testing Tools**
-- Postman
+
 - Playwright
+- Postman
 - Jira
 - Jam
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoonruksaBL036&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
