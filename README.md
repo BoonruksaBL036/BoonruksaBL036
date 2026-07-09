@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,100:111827&height=220&section=header&text=QA%20Engineer&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:70A5FD&height=220&section=header&text=QA%20Engineer&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Boonruksa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=QA+Engineer;Software+Tester;Playwright+Automation;API+Testing;Quality+First+Mindset"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=QA+Engineer;Software+Tester;Playwright+Automation;API+Testing;Quality+First+Mindset"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BoonruksaBL036&color=FACC15&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=BoonruksaBL036&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -19,9 +19,17 @@
 Passionate about Software Quality Assurance, Manual Testing, API Testing, and Test Automation.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/QA-Software%20Tester-FACC15?style=for-the-badge&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/Playwright-Test%20Automation-FACC15?style=for-the-badge&logo=playwright&logoColor=white&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FACC15?style=for-the-badge&logo=postman&logoColor=white&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/QA-Software%20Tester-70A5FD?style=for-the-badge&labelColor=1A1B27"/>
+  <img src="https://img.shields.io/badge/Playwright-Test%20Automation-BF91F3?style=for-the-badge&logo=playwright&logoColor=white&labelColor=1A1B27"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-38BDAE?style=for-the-badge&logo=postman&logoColor=white&labelColor=1A1B27"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=BF91F3&sideLabels=70A5FD&currStreakNum=70A5FD&sideNums=70A5FD&dates=38BDAE"/>
 </p>
 
 ---
@@ -41,7 +49,7 @@ Passionate about Software Quality Assurance, Manual Testing, API Testing, and Te
 # 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,vscode,postgres,postman"/>
+<img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,vscode,postgres,postman&theme=dark"/>
 </p>
 
 ### Testing Tools
@@ -53,10 +61,10 @@ Passionate about Software Quality Assurance, Manual Testing, API Testing, and Te
 
 ---
 
-## 🔥 GitHub Streak
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=BoonruksaBL036&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -64,7 +72,15 @@ Passionate about Software Quality Assurance, Manual Testing, API Testing, and Te
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BoonruksaBL036&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BoonruksaBL036&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 My Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BoonruksaBL036/BoonruksaBL036/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -73,10 +89,10 @@ Passionate about Software Quality Assurance, Manual Testing, API Testing, and Te
 
 <p align="center">
 <a href="https://github.com/BoonruksaBL036">
-<img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=111827"/>
+<img src="https://img.shields.io/badge/GitHub-70A5FD?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+🌌 <b>Thanks for visiting my profile</b> 🌌
 </p>
