@@ -1,8 +1,16 @@
-# 👋 Hi, I'm Brswnnon
+# 👋 Hi, I'm Boonruksa
 
 ## 💼 QA Engineer | Software Tester
 
 I'm interested in Software Quality Assurance, Manual Testing, API Testing, and Test Automation.
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -14,14 +22,14 @@ I'm interested in Software Quality Assurance, Manual Testing, API Testing, and T
 - 🔄 Regression Testing
 - 🔍 Exploratory Testing
 - 🌐 API Testing
-- 🤖 Test Automation (Learning)
+- 🤖 Test Automation (Playwright)
 
 ---
 
 ## 🧰 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,java,python,mysql,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,vscode,posgreSql,postman" />
 </p>
 
 **Testing Tools**
@@ -32,26 +40,10 @@ I'm interested in Software Quality Assurance, Manual Testing, API Testing, and T
 
 ---
 
-## 📚 Currently Learning
-
-- Selenium with Java
-- API Testing with Postman
-- SQL for QA
-- CI/CD Testing
-- Playwright
-
----
-
-## 📂 Featured Projects
-
-- 🔹 Web Testing Project
-- 🔹 API Testing Collection (Postman)
-- 🔹 Selenium Automation Framework
-- 🔹 Bug Report Samples
-- 🔹 Test Case Documentation
-
----
-
 ## 📫 Contact
 
-- GitHub: https://github.com/BoonruksaBL036
+<p align="center">
+  <a href="https://github.com/BoonruksaBL036">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
