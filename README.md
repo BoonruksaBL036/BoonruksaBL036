@@ -1,45 +1,57 @@
 # 👋 Hi, I'm Brswnnon
 
-💻 Student Developer
+## 💼 QA Engineer | Software Tester
 
-🌱 Currently learning Web Development & Java
-
----
-
-## 🏆 GitHub Profile
-
-<a href="https://github.com/BoonruksaBL036">
-  <img src="https://github-profile-trophy.vercel.app/?username=BoonruksaBL036&theme=tokyonight&no-frame=true&row=1&column=6" />
-</a>
+I'm interested in Software Quality Assurance, Manual Testing, API Testing, and Test Automation.
 
 ---
 
-## 🔥 GitHub Streak
+## 🛠 QA Skills
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoonruksaBL036&theme=tokyo-night&hide_border=true" />
-</p>
+- ✅ Manual Testing
+- 🐞 Bug Reporting
+- 📝 Test Case Design
+- 🔄 Regression Testing
+- 🔍 Exploratory Testing
+- 🌐 API Testing
+- 🤖 Test Automation (Learning)
 
 ---
 
-## 🛠 Skills
+## 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,mysql,postman,jam" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,java,python,mysql,postman" />
 </p>
+
+**Testing Tools**
+- Postman
+- Playwright
+- Jira
+- Jam
 
 ---
 
-## 🌐 Connect with me
+## 📚 Currently Learning
 
-<a href="https://github.com/BoonruksaBL036">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- Selenium with Java
+- API Testing with Postman
+- SQL for QA
+- CI/CD Testing
+- Playwright
+
+---
+
+## 📂 Featured Projects
+
+- 🔹 Web Testing Project
+- 🔹 API Testing Collection (Postman)
+- 🔹 Selenium Automation Framework
+- 🔹 Bug Report Samples
+- 🔹 Test Case Documentation
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/BoonruksaBL036
