@@ -53,10 +53,10 @@ Passionate about Software Quality Assurance, Manual Testing, API Testing, and Te
 
 ---
 
-# 🏆 GitHub Trophy
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BoonruksaBL036&theme=gruvbox&no-frame=true&row=1"/>
+  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
