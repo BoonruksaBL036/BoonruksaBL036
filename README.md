@@ -1,19 +1,45 @@
-<h2>My GitHub Stats</h2>
+# 👋 Hi, I'm Brswnnon
 
-<p>
-  <a href="https://github.com/BoonruksaBL036">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=BoonruksaBL036&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true"
-      alt="GitHub Stats"
-    />
-  </a>
+💻 Student Developer
+
+🌱 Currently learning Web Development & Java
+
+---
+
+## 🏆 GitHub Profile
+
+<a href="https://github.com/BoonruksaBL036">
+  <img src="https://github-profile-trophy.vercel.app/?username=BoonruksaBL036&theme=tokyonight&no-frame=true&row=1&column=6" />
+</a>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BoonruksaBL036&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <a href="https://github.com/BoonruksaBL036">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonruksaBL036&layout=compact&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true"
-      alt="Top Languages"
-    />
-  </a>
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoonruksaBL036&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🛠 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,python,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<a href="https://github.com/BoonruksaBL036">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
