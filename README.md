@@ -77,14 +77,6 @@ Passionate about Software Quality Assurance, Manual Testing, API Testing, and Te
 
 ---
 
-# 🐍 My Contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/BoonruksaBL036/BoonruksaBL036/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 📫 Contact
 
 <p align="center">
